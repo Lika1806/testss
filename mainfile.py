@@ -1,1 +1,1 @@
-print("test2")
+print("maini mej es avelaca")
